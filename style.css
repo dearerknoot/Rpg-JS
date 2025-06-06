@@ -6,7 +6,7 @@
 .player {
     width: 50%;
     height: 500px;
-    padding-top: 500px;
+    padding-top: 450px;
     text-align: center;
 }
 .hpBar{
@@ -16,6 +16,13 @@
     margin-left: 250px;
     border-radius: 50px;
     border-style: solid;
+}
+.hp{
+    height: 100%;
+    width: 400px;
+    background-color: red;
+    border-radius: 50px;
+   
 }
 .enemy {
     width: 50%;
